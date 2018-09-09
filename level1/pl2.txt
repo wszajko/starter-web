@@ -1,8 +1,4 @@
-plllllllll poziom1
-
-
-
-dodane do testu
-
-
-to musi zniknac
+1
+2
+3
+4 koniec
