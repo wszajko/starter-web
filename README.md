@@ -13,3 +13,7 @@ dodane po rebasing
 ###
 Cos sobie dodalem 
 linia2
+
+
+#### MOJE
+DODALEM
